@@ -1,0 +1,8 @@
+{
+  "name": "Shihab Portfolio",
+  "description": "A modern, responsive, and visually stunning personal portfolio for Shihab, Web Developer and Blockchain Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
